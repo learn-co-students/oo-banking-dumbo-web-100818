@@ -36,8 +36,3 @@ class Transfer
   end
 
 end
-#
-# avi = BankAccount.new("Avi")
-# amanda = BankAccount.new("Amanda")
-# transfer = Transfer.new(avi, amanda, 50)
-# transfer.execute_transaction
